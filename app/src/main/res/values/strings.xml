@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CRUDoperationsContentProvider</string>
+    <string name="add_10_ncontact">add&#10;contact</string>
+    <string name="update_contact">update&#10;contact</string>
+    <string name="delete_contact">delete&#10;contact</string>
+</resources>
